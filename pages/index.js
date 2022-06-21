@@ -78,7 +78,7 @@ export default function Home({ reactions }) {
       </Head>
 
       <main>
-        <h2>Static Reactions Demo</h2>
+        <h2>Static Reactions Demo for Branch Env.</h2>
         <h3>
           Reactions on{' '}
           <a href="https://github.com/vercel/reactions/issues/1">
